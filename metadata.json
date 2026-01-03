@@ -1,0 +1,5 @@
+{
+  "name": "IconFetch - 网站图标提取工具",
+  "description": "简单快速地获取任何网站的高清 Favicon 图标及其完整地址。",
+  "requestFramePermissions": []
+}
